@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Performing deep-dive data analysis on my "sql-data-warehouse-project" <br><br>pipeline using T-SQL to uncover performance bottlenecks and data trends.<br><br>Open-source Data Engineering tools or contributing to SQL-based automation scripts.<br><br>Expanding my professional network within the Data Engineering space and seeking opportunities <br><br>where I can apply my expertise.<br><br>Mastering Advanced SQL (Window Functions, CTEs, and Query Optimization) to build more efficient data transformations.<br><br>Ask me about my journey into Data, or my favorite data visualization techniques.<br><br>
+Performing deep-dive data analysis on my "sql-data-warehouse-project" pipeline using T-SQL to uncover performance bottlenecks and data trends.<br><br>Open-source Data Engineering tools or contributing to SQL-based automation scripts.<br><br>Expanding my professional network within the Data Engineering space and seeking opportunities where I can apply my expertise.<br><br>Mastering Advanced SQL (Window Functions, CTEs, and Query Optimization) to build more efficient data transformations.<br><br>Ask me about my journey into Data, or my favorite data visualization techniques.<br><br>
 
 
 ## 🌐 Socials:
